@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Program4 {
+public class Four {
 	public static void main(String[] args) {
 		Scanner scan=new Scanner(System.in);
 		System.out.println("Enter length of array");
